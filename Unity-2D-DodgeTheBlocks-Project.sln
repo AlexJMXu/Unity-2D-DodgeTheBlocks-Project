@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{262CCF1B-D3B5-C1F8-81BB-FEC40C3EECCB}") = "Unity-2D-DodgeTheBlocks-Project", "Assembly-CSharp.csproj", "{01569201-3E00-C867-1A14-6AAADB64D4C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01569201-3E00-C867-1A14-6AAADB64D4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01569201-3E00-C867-1A14-6AAADB64D4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01569201-3E00-C867-1A14-6AAADB64D4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01569201-3E00-C867-1A14-6AAADB64D4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
